@@ -1,18 +1,8 @@
 <images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
-<image path="images/back.jpg" filesize="74224" filedate="2018-09-07 16:31:11" width="537px" height="720px">
-</image>
-<image path="images/book.png" filesize="227" filedate="2018-09-07 16:31:11" width="16px" height="16px">
-</image>
-<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
-</image>
-<image path="images/external.png" filesize="151" filedate="2018-09-07 16:31:11" width="12px" height="12px">
-</image>
-<image path="images/front.jpg" filesize="117994" filedate="2018-09-07 16:31:11" width="538px" height="720px">
-</image>
-<image path="images/logo.jpg" filesize="12894" filedate="2018-09-07 16:31:11" width="139px" height="207px">
-</image>
-<image path="images/spine.jpg" filesize="39573" filedate="2018-09-07 16:31:11" width="182px" height="720px">
-</image>
-<image path="images/titlepage.gif" filesize="7031" filedate="2018-09-07 16:31:11" width="453px" height="720px">
-</image>
+<image path="images/back.jpg" filesize="408576" filedate="2025-05-20 20:25:45" width="1074px" height="1440px"/>
+<image path="images/front.jpg" filesize="448603" filedate="2025-05-20 20:25:45" width="1076px" height="1440px"/>
+<image path="images/logo.png" filesize="30643" filedate="2025-05-20 20:25:45" width="279px" height="415px"/>
+<image path="images/qr29320.png" filesize="332" filedate="2025-05-20 20:25:59" width="296px" height="296px"/>
+<image path="images/spine.jpg" filesize="159385" filedate="2025-05-20 20:25:45" width="365px" height="1440px"/>
+<image path="images/titlepage.png" filesize="22540" filedate="2025-05-20 20:25:45" width="906px" height="1440px"/>
 </images>
